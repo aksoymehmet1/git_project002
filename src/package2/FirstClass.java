@@ -13,6 +13,7 @@ public class FirstClass {
 
 		System.out.println("this is the second commit from remote repo");
 
+		System.out.println("first commit from mehmet branch");
 	}
 
 }
